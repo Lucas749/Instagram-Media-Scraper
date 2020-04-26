@@ -5,4 +5,4 @@ Script downloads pictures from instagram accounts. The script uses selenium and 
 1. Specify folder location and chromedriver path in the script
 2. Run script and type in instagram usernames
 
-# NOTE: Please do not misuse this script. This program was created as a fun project to familiarize myself with web scraping. 
+# NOTE: Please do not misuse this script. This program was created as a fun project during the Coronavirus outbreak to familiarize myself with web scraping. 
